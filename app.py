@@ -61,7 +61,7 @@ def home():
         </div>
 
         <footer>
-            <p>Desarrollado por [Tu Nombre y Apellido] &copy; 2025</p>
+            <p>Desarrollado por [Gavilan Morales Gerson Paul] &copy; 2025</p>
         </footer>
     </body>
     </html>
