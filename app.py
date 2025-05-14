@@ -57,12 +57,11 @@ def home():
 
         <div class="content">
             <h2>Imagen Representativa</h2>
-            <img src="{url_for('static', filename='sistema-informatico-1-e1585504699254.jpg')}" alt="">
+            <img src="{url_for('static', filename='sistema-informatico-1-e1585504699254.jpg')}" alt="Imagen de ejemplo del proyecto">
         </div>
 
-
         <footer>
-            <p>Desarrollado por [Gavilan Morales gerson paul] &copy; 2025</p>
+            <p>Desarrollado por [Tu Nombre y Apellido] &copy; 2025</p>
         </footer>
     </body>
     </html>
