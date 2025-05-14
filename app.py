@@ -60,11 +60,6 @@ def home():
             <img src="{url_for('static', filename='sistema-informatico-1-e1585504699254.jpg')}" alt="">
         </div>
 
-        <div class="content">
-            <h2>Visítame en Render</h2>
-            <p>Puedes acceder a mi sitio web en la siguiente dirección:</p>
-            <a href="https://paguina-web-tarea.onrender.com"target="_blank">Ver página publicada en Render</a>
-        </div>
 
         <footer>
             <p>Desarrollado por [Gavilan Morales gerson paul] &copy; 2025</p>
