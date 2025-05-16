@@ -19,16 +19,21 @@ def home():
                 padding: 20px;
             }}
             header, footer {{
-                background-color: #004080;
+                background-color: orange;
                 color: white;
                 text-align: center;
                 padding: 10px 0;
+                cursor: pointer;
+            }}
+            header:hover,
+            footer:hover {{
+                background-color: blue;
             }}
             .content {{
                 margin: 20px 0;
             }}
             img {{
-                width: 20%;
+                width: 30%;
                 height: auto;
             }}
         </style>
@@ -66,6 +71,7 @@ def home():
     </body>
     </html>
     """
+
 
 if __name__ == '__main__':
     app.run(debug=True)
